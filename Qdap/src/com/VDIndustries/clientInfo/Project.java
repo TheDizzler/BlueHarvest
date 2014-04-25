@@ -29,7 +29,8 @@ public class Project implements Disposable {
 	
 	/**
 	* This is a git test.
-		Testing tiesting*/
+		Testing tiesting.
+		Testing again.*/
 	public Project() {
 	
 		System.out.println("Initializing Project...");
