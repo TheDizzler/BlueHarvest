@@ -27,12 +27,9 @@ public class Project implements Disposable {
 	
 	public Array<FloorProfile>	floorProfiles	= new Array<FloorProfile>();
 	
-	/**
-	* This is a git test.
-		Testing tiesting.
-		Testing again.*/
+	/** This is a git test. */
 	public Project() {
-	
+		// testing pushing to remote
 		System.out.println("Initializing Project...");
 		
 		
