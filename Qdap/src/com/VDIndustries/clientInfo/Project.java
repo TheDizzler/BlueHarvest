@@ -31,13 +31,6 @@ public class Project implements Disposable {
 	public Project() {
 		// testing pushing to remote
 		System.out.println("Initializing Project...");
-		// more pushing
-		
-		wth();
-		thisShouldntWork();
-		wellWTF();
-		//a change
-		//yet antoerh chaner
 		
 		try {
 			
