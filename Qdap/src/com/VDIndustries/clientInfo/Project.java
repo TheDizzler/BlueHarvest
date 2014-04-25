@@ -35,7 +35,7 @@ public class Project implements Disposable {
 		
 		wth();
 		thisShouldntWork();
-		
+		wellWTF();
 		
 		try {
 			
