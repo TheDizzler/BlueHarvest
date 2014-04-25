@@ -33,6 +33,10 @@ public class Project implements Disposable {
 		System.out.println("Initializing Project...");
 		// more pushing
 		
+		wth();
+		thisShouldntWork();
+		
+		
 		try {
 			
 			projectFile = Gdx.files.internal("client/testProject.xml");
