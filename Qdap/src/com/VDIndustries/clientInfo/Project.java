@@ -32,6 +32,7 @@ public class Project implements Disposable {
 		// testing pushing to remote
 		System.out.println("Initializing Project...");
 		
+		//Well isn't that interesting
 		
 		try {
 			
